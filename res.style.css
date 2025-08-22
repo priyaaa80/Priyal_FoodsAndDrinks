@@ -1,0 +1,54 @@
+@media(max-width:1199px){
+
+/* header  */
+
+
+/* booking area  */
+
+
+/* services  */
+
+}
+@media(max-width:991px){
+    /* custom css  */
+    .header_wrapper .navbar-nav {
+        background: rgba(2, 24, 50, 0.95);
+        padding: 10px;
+        border-radius: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .header_wrapper .nav-item {
+        margin: 6px 0;
+    }
+    .header_wrapper .nav-link {
+        display: block;
+        width: 100%;
+    }
+
+
+    /* 2 navbar  */
+
+    /* home  */
+
+    /* about  */
+
+/* menu  */
+   
+
+/* services */
+
+/* chefs */
+
+/* gallery */
+
+/* price */
+
+/* reviews  */
+
+/* slider  */
+
+/* footer  */
+
+
+}
